@@ -1,0 +1,25 @@
+seller,product_category,rating,text,date
+Amazon,Electronics,5,Great product! Fast delivery and excellent quality.,2024-01-15
+Amazon,Electronics,4,Good product but shipping took longer than expected.,2024-01-16
+Amazon,Electronics,5,Amazing! Best purchase ever made.,2024-01-17
+BestBuy,Electronics,3,Product works but customer service was poor.,2024-01-15
+BestBuy,Electronics,5,Excellent electronics store, highly recommend.,2024-01-16
+Walmart,Home_Kitchen,2,Disappointed with the quality. Not worth the money.,2024-01-15
+Walmart,Home_Kitchen,5,Perfect for my kitchen needs. Great value.,2024-01-16
+Walmart,Home_Kitchen,4,Good product, decent price.,2024-01-17
+Target,Home_Kitchen,5,Fantastic kitchen appliance! Love it.,2024-01-15
+Target,Home_Kitchen,3,Okay product, nothing special.,2024-01-16
+Costco,Electronics,5,Outstanding quality and service from Costco.,2024-01-15
+Costco,Electronics,4,Good electronics, fair price.,2024-01-16
+Costco,Electronics,5,Best electronics store around. Great deals.,2024-01-17
+HomeDepot,Home_Kitchen,4,Good selection of kitchen items.,2024-01-15
+HomeDepot,Home_Kitchen,5,Excellent home improvement store.,2024-01-16
+Lowes,Home_Kitchen,3,Average quality, could be better.,2024-01-15
+Lowes,Home_Kitchen,4,Decent products, helpful staff.,2024-01-16
+Newegg,Electronics,5,Best place to buy electronics online.,2024-01-15
+Newegg,Electronics,4,Good prices and selection.,2024-01-16
+Newegg,Electronics,5,Amazing deals and fast shipping.,2024-01-17
+MicroCenter,Electronics,5,Best electronics store in the area.,2024-01-15
+MicroCenter,Electronics,4,Good selection and knowledgeable staff.,2024-01-16
+MicroCenter,Electronics,5,Excellent service and competitive prices.,2024-01-17
+
